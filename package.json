@@ -1,0 +1,20 @@
+{
+  "name": "girlfriend",
+  "version": "0.0.1",
+  "description": "get a girlfriend",
+  "homepage": "https://github.com/codetyphon/girlfriend",
+  "repository": "https://github.com/codetyphon/girlfriend.git",
+  "author": {
+    "name": "codetyphon",
+    "email": "g@codetyphon.com",
+    "url": "http://www.codetyphon.com"
+  },
+  "keywords": [
+    "get a girlfriend"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT"
+}
