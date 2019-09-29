@@ -1,2 +1,2 @@
-var myboyfriend=require('girlfriend');
+var mygirlfriend=require('girlfriend');
 mygirlfriend.kissMe();
