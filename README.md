@@ -7,7 +7,7 @@ npm install girlfriend
 
 test.js
 
-```
+```js
 var mygirlfriend=require('girlfriend');
 mygirlfriend.kissMe();
 ```
